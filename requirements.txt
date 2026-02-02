@@ -5,7 +5,7 @@ numpy
 scikit-learn
 joblib
 pydantic
-streamlit==1.19.0
+streamlit
 requests
-altair==4.2.2
+# altair==4.2.2
 
