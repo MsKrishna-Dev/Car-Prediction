@@ -7,3 +7,4 @@ joblib
 pydantic
 streamlit
 requests
+altair==6.0.0

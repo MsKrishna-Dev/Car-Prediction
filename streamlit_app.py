@@ -53,7 +53,7 @@ st.json(payload)
 
 if st.button("Predict Price 💰"):
     try:
-        res = requests.post(API_URL, json=payload, timeout=20)
+        res = requests.post(API_URL, json=payload, timeout=60)
         if res.status_code == 200:
             data = res.json()
 
