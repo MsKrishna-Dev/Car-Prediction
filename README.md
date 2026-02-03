@@ -1,4 +1,4 @@
-### 🚗 Car Price Prediction System
+# 🚗 Car Price Prediction System
 
 A full-stack machine learning project that predicts the selling price of a car based on its features using a trained ML model, exposed via a FastAPI backend and consumed through a Streamlit frontend UI.
 
