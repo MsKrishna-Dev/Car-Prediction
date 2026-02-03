@@ -12,7 +12,7 @@ This project demonstrates:
 
 ## 🔥 Live Demo
 
-👉 (https://car-prediction-gcappsk6cocddywyfp5gybw.streamlit.app/)
+👉 https://car-prediction-gcappsk6cocddywyfp5gybw.streamlit.app/
 
 ---
 
