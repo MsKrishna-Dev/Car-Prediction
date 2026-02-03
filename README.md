@@ -12,7 +12,7 @@ This project demonstrates:
 
 ## 🔥 Live Demo
 
-👉 (Add your deployed Streamlit link here)
+👉 (https://car-prediction-gcappsk6cocddywyfp5gybw.streamlit.app/)
 
 ---
 
@@ -87,7 +87,7 @@ Car Price FastAPI/
 ## ⚙️ Installation & Setup
 
 1️⃣ Clone the Repository
-- git clone https://github.com/your-username/car-prediction.git
+- git clone https://github.com/MsKrishna-Dev/Car-Price-Prediction-Full-Stack-ML-Application.git
 cd car-prediction
 
 2️⃣ Create Virtual Environment
